@@ -1,4 +1,4 @@
-module github.com/localpulse/localpulse
+module github.com/Brattlof/localpulse
 
 go 1.24.2
 

@@ -4,8 +4,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/localpulse/localpulse/monitor"
-	"github.com/localpulse/localpulse/ui"
+	"github.com/Brattlof/localpulse/monitor"
+	"github.com/Brattlof/localpulse/ui"
 )
 
 type LogEntry struct {

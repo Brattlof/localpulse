@@ -3,10 +3,10 @@ package app
 import (
 	"strings"
 
+	"github.com/Brattlof/localpulse/monitor"
+	"github.com/Brattlof/localpulse/ui"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/localpulse/localpulse/monitor"
-	"github.com/localpulse/localpulse/ui"
 )
 
 func (m Model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {

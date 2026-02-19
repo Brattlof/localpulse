@@ -1,10 +1,10 @@
 package app
 
 import (
-	"github.com/localpulse/localpulse/app/components"
-	"github.com/localpulse/localpulse/config"
-	"github.com/localpulse/localpulse/monitor"
-	"github.com/localpulse/localpulse/ui"
+	"github.com/Brattlof/localpulse/app/components"
+	"github.com/Brattlof/localpulse/config"
+	"github.com/Brattlof/localpulse/monitor"
+	"github.com/Brattlof/localpulse/ui"
 )
 
 type FocusPanel int

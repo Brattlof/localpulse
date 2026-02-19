@@ -6,9 +6,9 @@ import (
 	"os/signal"
 	"syscall"
 
+	"github.com/Brattlof/localpulse/app"
+	"github.com/Brattlof/localpulse/config"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/localpulse/localpulse/app"
-	"github.com/localpulse/localpulse/config"
 )
 
 var version = "dev"

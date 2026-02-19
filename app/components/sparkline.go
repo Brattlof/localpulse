@@ -1,8 +1,8 @@
 package components
 
 import (
+	"github.com/Brattlof/localpulse/ui"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/localpulse/localpulse/ui"
 )
 
 type SparklineChart struct {

@@ -3,9 +3,9 @@ package components
 import (
 	"strings"
 
+	"github.com/Brattlof/localpulse/monitor"
+	"github.com/Brattlof/localpulse/ui"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/localpulse/localpulse/monitor"
-	"github.com/localpulse/localpulse/ui"
 )
 
 type EndpointList struct {

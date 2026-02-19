@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
+	"github.com/Brattlof/localpulse/monitor"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/localpulse/localpulse/monitor"
 )
 
 type TickMsg time.Time

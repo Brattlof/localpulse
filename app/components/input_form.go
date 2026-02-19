@@ -1,10 +1,10 @@
 package components
 
 import (
+	"github.com/Brattlof/localpulse/ui"
 	"github.com/charmbracelet/bubbles/textinput"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/localpulse/localpulse/ui"
 )
 
 type InputFormState int
