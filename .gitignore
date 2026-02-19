@@ -1,0 +1,26 @@
+# Dependencies
+/localpulse
+/localpulse.exe
+/bin/
+
+# Test coverage
+coverage.out
+coverage.html
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config (user-specific)
+.localpulse.json
+
+# AI tooling
+.opencode/
+AGENTS.md
+opencode.json
